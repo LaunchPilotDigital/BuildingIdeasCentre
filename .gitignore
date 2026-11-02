@@ -1,0 +1,10 @@
+# Original scraped images and data (large; the optimised copies are in site/)
+scraped/
+tools/scrape.log
+
+# Client pitch and internal documents
+*.pdf
+LAUNCH-NOTES.md
+
+__pycache__/
+*.pyc
